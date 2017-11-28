@@ -1,0 +1,19 @@
+Misc
+====================
+
+| Network reconnector for dodgy wifi connections that drop constantly
+| https://github.com/ntoff/NetReconnector
+| 
+| Hardware shutdown button script for raspberry pi
+| https://github.com/ntoff/raspi-shutdown
+| 
+| Hardware print cancel button script for raspberry pi + octoprint (currently untested outside of a VM)
+| https://github.com/ntoff/octoprint-hardware-control
+| 
+| OBS Themes
+| https://github.com/ntoff/OBS-Themes
+| 
+| Guides (this may become part of these github pages at some point), mostly OctoPrint related
+| https://github.com/ntoff/Guides
+| 
+| 

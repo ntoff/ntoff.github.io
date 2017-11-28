@@ -1,0 +1,64 @@
+OctoPrint Plugins
+=================
+
+Here's all the plugins I've made or modified (not all of these are my own original creation) that I think are worth mentioning.
+
+I'm not a professional developer, I'm just some random who googles for how-to's. Use this stuff at your own risk. 
+I try to do extensive testing before uploading but I can only test on a limited range of hardware and operating systems.
+
+For all the stuff I have, see the full repository link on the main page.
+
+Mine
+----
+
+| Automatically collapse the files accordion
+| https://github.com/ntoff/OctoPrint-AutoCollapse 
+| 
+| Developer tools (work in progress)
+| https://github.com/ntoff/OctoPrint-Buttons
+| 
+| Adds a shortcut to mjpeg streamer's camera setings page (doesn't work on OctoPi)
+| https://github.com/ntoff/OctoPrint-Camcontrol
+| 
+| Bootswatch "Cyborg" theme adapted for OctoPrint
+| https://github.com/ntoff/Octoprint-CyborgTheme
+| 
+| Emergency stop button in the sidebar.
+| https://github.com/ntoff/OctoPrint-Estop
+| 
+| Extra movement distance buttons in the control tab
+| https://github.com/ntoff/OctoPrint-ExtraDistance
+| 
+| Stickies the navbar to the top of the browser window
+| https://github.com/ntoff/OctoPrint-Fixednav
+| 
+| Allows limiting the parts fan output power and adds a speed control slider
+| https://github.com/ntoff/OctoPrint-FanSpeedSlider
+| 
+| Rewrites M18 to M84 for compatibility with Repetier firmware
+| https://github.com/ntoff/Octoprint-M84MotOff
+| 
+
+Modified
+--------
+
+| Modified to display the SoC temperature of my PCDuino3b running Armbian
+| https://github.com/ntoff/OctoPrint-NavbarTemp
+| 
+| (on hold) Trying to modify it to respond to Repetier firmware fan speed reports
+| https://github.com/ntoff/OctoPrint-FanSpeed
+| 
+| Turned it into a tab
+| https://github.com/ntoff/OctoPrint-EEPROM-Repetier
+| 
+
+Dangerous
+---------
+
+Anything listed here is potentially harmful if used incorrectly. Nothing intentionally malicious or created with the intent to harm, but consider them "power tools" to be used only by skilled operators.
+
+| Automatically start printing as soon as a file is uploaded
+| Designed for use with slic3r which allows uploading, but not print control
+| https://github.com/ntoff/Octoprint-Autoprint
+| 
+| 
