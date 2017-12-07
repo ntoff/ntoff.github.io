@@ -45,7 +45,7 @@ Modified
 | Modified to display the SoC temperature of my PCDuino3b running Armbian
 | https://github.com/ntoff/OctoPrint-NavbarTemp
 | 
-| (on hold) Trying to modify it to respond to Repetier firmware fan speed reports
+| Modified it to respond to Repetier firmware fan speed reports
 | https://github.com/ntoff/OctoPrint-FanSpeed
 | 
 | Turned it into a tab
