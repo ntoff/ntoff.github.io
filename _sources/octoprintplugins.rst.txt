@@ -38,6 +38,9 @@ Mine
 | Rewrites M18 to M84 for compatibility with Repetier firmware
 | https://github.com/ntoff/Octoprint-M84MotOff
 | 
+| Adds repetier firmware debug flag setter to the controls page
+| https://github.com/ntoff/OctoPrint-Debugflags
+| 
 
 Modified
 --------
